@@ -24,7 +24,7 @@ public class ManageBrowser {
         PropertyConfigurator.configure(System.getProperty("user.dir") + "/src/test/resources/propertiesfile/log4j2.properties");
     }
 
-    public void selectBrowser(String browser){
+    public void selectBrowser(String browser) {
         if (browser.equalsIgnoreCase("chrome")) {
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--headless=new");
@@ -52,8 +52,8 @@ public class ManageBrowser {
         driver.get(baseUrl);
     }
 
-    public void closeBrowser(){
-        if (driver!= null){
+    public void closeBrowser() {
+        if (driver != null) {
             driver.quit();
         }
     }

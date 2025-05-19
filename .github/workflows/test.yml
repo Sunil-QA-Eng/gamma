@@ -30,8 +30,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-maven
 
-      - name: Run Cucumber Tests
-        run: mvn clean test
+      - name: Run Cucumber Tests (via TestNG)
+        run: mvn clean test -Dsurefire.suiteXmlFiles=src/test/java/co/gamma/group/runners/testng.xml
 
       - name: Upload Cucumber HTML Report
         uses: actions/upload-artifact@v4

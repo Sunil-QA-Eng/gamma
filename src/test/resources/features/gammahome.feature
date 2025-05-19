@@ -25,9 +25,9 @@ Feature: Gamma-group home page functionality
   Scenario: Validate submenu items of Product Portfolio are displayed correctly
     When I click on product portfolio from top menu
     Then I should see the following submenu items:
-      | Enable          |
-      | Connect         |
-      | Experience      |
-      | Secure          |
-      | Solutions       |
-      | Toolbox         |
+      | Enable     |
+      | Connect    |
+      | Experience |
+      | Secure     |
+      | Solutions  |
+      | Toolbox    |
