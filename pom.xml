@@ -108,23 +108,6 @@
           <target>17</target>
         </configuration>
       </plugin>
-
-      <!-- ✅ Maven Surefire Plugin -->
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-surefire-plugin</artifactId>
-        <version>3.2.3</version>
-        <configuration>
-          <testFailureIgnore>false</testFailureIgnore>
-          <suiteXmlFiles>
-            <suiteXmlFile>src/test/java/com/nopcommerce/demo/runner/testng.xml</suiteXmlFile>
-          </suiteXmlFiles>
-          <argLine>
-            --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
-          </argLine>
-        </configuration>
-      </plugin>
-
     </plugins>
   </build>
 
