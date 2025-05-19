@@ -1,0 +1,116 @@
+2025-05-18 16:05:412 INFO  HomePage :30 - Get's Page Title
+2025-05-18 16:05:375 INFO  HomePage :30 - Get's Page Title
+2025-05-18 16:05:676 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 16:05:930 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 16:05:60 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 16:05:705 INFO  HomePage :31 - Retrieving page title
+2025-05-18 16:05:322 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 16:05:18 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 16:05:650 INFO  HomePage :31 - Retrieving page title
+2025-05-18 16:05:514 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 16:05:271 INFO  HomePage :49 - ✅ Menu item match at index 0: 'Company'<br>
+2025-05-18 16:05:271 ERROR HomePage :46 - ❌ Mismatch at index 1: expected 'Business Solutions', but found ''<br>
+2025-05-18 16:05:290 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 17:05:354 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 17:05:712 INFO  HomePage :31 - Retrieving page title
+2025-05-18 17:05:903 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 17:05:833 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 17:05:479 INFO  HomePage :31 - Retrieving page title
+2025-05-18 17:05:166 INFO  HomePage :26 - Clicking on Accept Cookies Button
+2025-05-18 17:05:788 INFO  HomePage :29 - Clicking on Accept Cookies Button
+2025-05-18 17:05:331 INFO  HomePage :34 - Retrieving page title
+2025-05-18 17:05:520 INFO  HomePage :29 - Clicking on Accept Cookies Button
+2025-05-18 17:05:03 INFO  HomePage :34 - Retrieving page title
+2025-05-18 17:05:498 INFO  HomePage :29 - Clicking on Accept Cookies Button
+2025-05-18 17:05:147 INFO  HomePage :39 - Retrieving mission statement
+2025-05-18 17:05:237 INFO  HomePage :29 - Clicking on Accept Cookies Button
+2025-05-18 17:05:464 INFO  HomePage :34 - Retrieving page title
+2025-05-18 17:05:725 INFO  HomePage :29 - Clicking on Accept Cookies Button
+2025-05-18 17:05:124 INFO  HomePage :39 - Retrieving mission statement
+2025-05-19 17:05:912 INFO  HomePage :48 - Clicking on Accept Cookies Button
+2025-05-19 17:05:439 INFO  HomePage :81 - Click on Company
+2025-05-19 17:05:558 INFO  HomePage :48 - Clicking on Accept Cookies Button
+2025-05-19 17:05:161 INFO  HomePage :53 - Retrieving page title
+2025-05-19 17:05:360 INFO  HomePage :48 - Clicking on Accept Cookies Button
+2025-05-19 17:05:870 INFO  HomePage :58 - Retrieving mission statement
+2025-05-19 17:05:513 INFO  HomePage :48 - Clicking on Accept Cookies Button
+2025-05-19 17:05:239 INFO  HomePage :63 - Retrieving phone number
+2025-05-19 17:05:75 INFO  HomePage :48 - Clicking on Accept Cookies Button
+2025-05-19 17:05:697 INFO  HomePage :68 - Click on magnifying Icon
+2025-05-19 17:05:520 INFO  HomePage :48 - Clicking on Accept Cookies Button
+2025-05-19 17:05:982 INFO  HomePage :81 - Click on Company
+2025-05-19 17:05:166 INFO  HomePage :86 - Click on Who we are
+2025-05-19 17:05:584 INFO  HomePage :49 - Clicking on Accept Cookies Button
+2025-05-19 18:05:709 INFO  HomePage :49 - Click on Accept Cookies Button
+2025-05-19 18:05:450 INFO  HomePage :49 - Click on Accept Cookies Button
+2025-05-19 18:05:638 INFO  HomePage :55 - Click on Accept Cookies Button
+2025-05-19 18:05:405 INFO  HomePage :55 - Click on Accept Cookies Button
+2025-05-19 18:05:23 INFO  HomePage :93 - Click on Company
+2025-05-19 18:05:459 INFO  HomePage :55 - Click on Accept Cookies Button
+2025-05-19 18:05:469 INFO  HelpSupportPage :21 - Retrieving page title
+2025-05-19 19:05:309 INFO  HomePage :51 - Click on Accept Cookies Button
+2025-05-19 19:05:126 INFO  HomePage :84 - Click on Help & Support
+2025-05-19 19:05:151 INFO  HelpSupportPage :21 - Retrieving page title
+2025-05-19 19:05:251 INFO  HelpSupportPage :26 - Retrieving sub title
+2025-05-19 19:05:490 INFO  HomePage :51 - Click on Accept Cookies Button
+2025-05-19 20:05:306 INFO  HomePage :36 - Click on Accept Cookies Button
+2025-05-19 20:05:528 INFO  HomePage :32 - Click on Accept Cookies Button
+2025-05-19 20:05:568 INFO  HomePage :36 - Retrieving page title
+2025-05-19 20:05:184 INFO  HomePage :32 - Click on Accept Cookies Button
+2025-05-19 20:05:194 INFO  HomePage :41 - Retrieving mission statement
+2025-05-19 20:05:246 INFO  HomePage :32 - Click on Accept Cookies Button
+2025-05-19 20:05:265 INFO  HomePage :36 - Retrieving page title
+2025-05-19 20:05:704 INFO  HomePage :32 - Click on Accept Cookies Button
+2025-05-19 20:05:34 INFO  HomePage :41 - Retrieving mission statement
+2025-05-19 20:05:857 INFO  HomePage :32 - Click on Accept Cookies Button
+2025-05-19 20:05:62 INFO  HomePage :48 - Click on Help & Support
+2025-05-19 20:05:71 INFO  HelpSupportPage :24 - Retrieving page title
+2025-05-19 20:05:86 INFO  HelpSupportPage :29 - Retrieving sub title
+2025-05-19 20:05:482 INFO  HomePage :39 - Click on Accept Cookies Button
+2025-05-19 20:05:766 INFO  HomePage :39 - Click on Accept Cookies Button
+2025-05-19 20:05:421 INFO  HomePage :39 - Click on Accept Cookies Button
+2025-05-19 20:05:546 INFO  HomePage :43 - Retrieving page title
+2025-05-19 20:05:911 INFO  HomePage :39 - Click on Accept Cookies Button
+2025-05-19 20:05:954 INFO  HomePage :48 - Retrieving mission statement
+2025-05-19 20:05:700 INFO  HomePage :39 - Click on Accept Cookies Button
+2025-05-19 20:05:613 INFO  HomePage :39 - Click on Accept Cookies Button
+2025-05-19 20:05:802 INFO  HomePage :55 - Click on Help & Support
+2025-05-19 20:05:850 INFO  HelpSupportPage :24 - Retrieving page title
+2025-05-19 20:05:894 INFO  HelpSupportPage :29 - Retrieving sub title
+2025-05-19 21:05:46 INFO  HomePage :53 - Click on Accept Cookies Button
+2025-05-19 21:05:825 INFO  HomePage :53 - Click on Accept Cookies Button
+2025-05-19 21:05:58 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:90 INFO  HomePage :52 - click product portfolio
+2025-05-19 21:05:317 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:334 INFO  HomePage :47 - Retrieving page title
+2025-05-19 21:05:189 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:204 INFO  HomePage :57 - Retrieving mission statement
+2025-05-19 21:05:832 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:771 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:788 INFO  HomePage :52 - click product portfolio
+2025-05-19 21:05:834 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:820 INFO  HomePage :63 - Click on Help & Support
+2025-05-19 21:05:827 INFO  HelpSupportPage :24 - Retrieving page title
+2025-05-19 21:05:842 INFO  HelpSupportPage :29 - Retrieving sub title
+2025-05-19 21:05:298 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:322 INFO  HomePage :47 - Retrieving page title
+2025-05-19 21:05:986 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:54 INFO  HomePage :57 - Retrieving mission statement
+2025-05-19 21:05:975 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:709 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:723 INFO  HomePage :52 - click product portfolio
+2025-05-19 21:05:213 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:424 INFO  HomePage :63 - Click on Help & Support
+2025-05-19 21:05:433 INFO  HelpSupportPage :24 - Retrieving page title
+2025-05-19 21:05:498 INFO  HelpSupportPage :29 - Retrieving sub title
+2025-05-19 21:05:951 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:41 INFO  HomePage :47 - Retrieving page title
+2025-05-19 21:05:461 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:474 INFO  HomePage :57 - Retrieving mission statement
+2025-05-19 21:05:143 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:393 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:399 INFO  HomePage :52 - click product portfolio
+2025-05-19 21:05:520 INFO  HomePage :43 - Click on Accept Cookies Button
+2025-05-19 21:05:197 INFO  HomePage :63 - Click on Help & Support
+2025-05-19 21:05:207 INFO  HelpSupportPage :24 - Retrieving page title
+2025-05-19 21:05:236 INFO  HelpSupportPage :29 - Retrieving sub title
