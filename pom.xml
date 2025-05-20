@@ -92,6 +92,7 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.2.3</version>
         <configuration>
+          <argLine>--add-opens java.base/java.lang=ALL-UNNAMED</argLine>
           <suiteXmlFiles>
             <suiteXmlFile>src/test/java/co/gamma/group/runners/testng.xml</suiteXmlFile>
           </suiteXmlFiles>

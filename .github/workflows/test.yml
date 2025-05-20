@@ -1,4 +1,4 @@
-name: Cucumber Test Pipeline
+name: Smoke Test Pipeline
 
 on:
   push:

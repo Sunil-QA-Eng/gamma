@@ -16,9 +16,14 @@ public class Hooks extends Utility {
     @After
     public void tearDown(Scenario scenario) {
         if (scenario.isFailed()) {
-            final byte[] screenshot = getScreenShot();
-            scenario.attach(screenshot, "image/png", scenario.getName());
+            try {
+                byte[] screenshot = getScreenShot(); // Ensure this returns PNG byte[]
+                scenario.attach(screenshot, "image/png", "Failure Screenshot: " + scenario.getName());
+            } catch (Exception e) {
+                System.err.println("Failed to capture screenshot: " + e.getMessage());
+            }
         }
+
         closeBrowser();
     }
 }

@@ -50,6 +50,7 @@ public class HomePage extends Utility {
 
     public void clickOnProductPortfolio() {
         log.info("click product portfolio");
+        waitUntilVisibilityOfElementLocated(productPortfolio, 10);
         clickOnElement(productPortfolio);
     }
 
